@@ -48,6 +48,6 @@ In summary, therefore we have the following collection of equations that are to 
 | Energy  | $h_{p}=\Delta z + f_{f}$ |
 | Darcy-Weisbach | $h_{f} = f\frac{L}{d} \frac{V^{2}}{2g}$ |
 | Pump Power | $P=\gamma h_{p} Q = \gamma h_{p} V \frac{\pi}{4}d^{2}$ |
-| Friction Factor (Haaland) | $ \frac{1}{\sqrt{f}} = -1.8 $ |
+| Friction Factor (Haaland) | $\frac{1}{\sqrt{f}} = -1.8$ |
 
 
