@@ -23,4 +23,14 @@ $$ \frac{1}{\sqrt{f}} = -1.8 \log \biggl[\biggl(\frac{\epsilon/d}{3.7}\bigg)^{1.
 
 Great. This assumption is useful, but is it valid? For large scale pipe flow applications, it generally is. Fantastic. So, what next? Well, to solve this problem, we need to apply the work-energy equation between locations 1 and 2. This is given by
 
-$$ \frac{p_{1}}{\gamma}+\frac{V_{1}^{2}}+z_{1}+h_{p}=\frac{p_{2}}{\gamma}+\frac{V_{2}^{2}}+z_{2}+h_{L}+\sum h_{m} $$
+$$ \frac{p_{1}}{\gamma}+\frac{V_{1}^{2}}{2}+z_{1}+h_{p}=\frac{p_{2}}{\gamma}+\frac{V_{2}^{2}}{2}+z_{2}+h_{f}+\sum h_{L} $$
+
+In this equation, $p$ refers to pressure, $V$ is velocity, $h_{f}$ is the friction loss, and $h_{L}$ refers to *local* losses, such as entrance effects, or other. For us to proceed, we are going to assume the following:
+
+1. The air pressures at the two free surfaces are equal, so they cancel.
+2. The velocities of the reservoir free surfaces (one moves slowly up, the other down) are very small and can be ignored.
+3. Local losses are small compared to friction losses, and can be ignored.
+
+Thus, our equation becomes:
+
+$$ h_{p}=\Delta z+h_{f} $$
