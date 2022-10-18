@@ -13,4 +13,4 @@ In this diagram, the black lines are *contour lines* of constant relative roughn
 
 Now, if you don't like to use diagrams, that is ok. You can use the [Haaland equation](https://en.wikipedia.org/wiki/Darcy_friction_factor_formulae#Haaland_equation) given by
 
-\frac{1}{\sqrt{f}} = -1.8 \log \biggl[\biggl(\frac{\epsilon/d}{3.7}\bigg)^{1.11} + \frac{6.9}{Rd}\biggr]
+$$ \frac{1}{\sqrt{f}} = -1.8 \log \biggl[\biggl(\frac{\epsilon/d}{3.7}\bigg)^{1.11} + \frac{6.9}{Rd}\biggr] $$
