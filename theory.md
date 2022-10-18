@@ -50,4 +50,16 @@ In summary, therefore we have the following collection of equations that are to 
 | Pump Power | $P=\gamma h_{p} Q = \gamma h_{p} V \frac{\pi}{4}d^{2}$ |
 | Friction Factor (Haaland) | $\frac{1}{\sqrt{f}} = -1.8 \log \biggl[\biggl(\frac{\epsilon/d}{3.7}\bigg)^{1.11}\biggr]$ |
 
+The following are typically known:
+1. Elevation difference $\Delta z$
+2. Roughness height $\epsilon
+3. Pipe diameter $d$
+4. Pump power $P$
+5. Pipe length $L$
+6. Fluid specific weight $\gamma$
 
+The four equations above are used to solve for the following:
+1. Pump head $h_{p}$
+2. Friction head loss $h_{f}$
+3. Friction factor $f$
+4. Fluid velocity $V$
