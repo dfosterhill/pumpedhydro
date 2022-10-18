@@ -43,6 +43,8 @@ Note that in this equation the $V$ is the velocity of the water in the pipe, whi
 
 In summary, therefore we have the following collection of equations that are to be solved:
 
-| Energy equation | $h_{p}=\Delta z + f_{f} |
+| Name | Formula|
 | --- | --- |
+| Energy  | $h_{p}=\Delta z + f_{f}$ |
+
 
