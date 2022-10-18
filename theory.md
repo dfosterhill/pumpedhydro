@@ -17,4 +17,6 @@ $$ \frac{1}{\sqrt{f}} = -1.8 \log \biggl[\biggl(\frac{\epsilon/d}{3.7}\bigg)^{1.
 
 Again, if you know $\epsilon/d$ and $Re$, you can quickly get $f$.
 
-So, why is this a Type 2 pipe flow problem? For us to solve for $Q$ we will need to know $f$. And to know $f$, we need to know $Re$. And, to get $Re$, we need to know $V$, which is given by $V = Q / A = 4Q/(\pi\. d^{2})$.
+So, why is this a Type 2 pipe flow problem? For us to solve for $Q$ we will need to know $f$. And to know $f$, we need to know $Re$. And, to get $Re$, we need to know $V$, which is given by $V = Q / A = 4Q/(\pi d^{2})$. So, to find $Q$, we need to know $Q$, siggggghhh. This is a little bit of a pain, but we can get around with with some reasonable assumptions. If you look at the Moody Diagram, you will note that, for any given $\epsilon/d$ curve, the curve is essentially flat for a large range of $Re$. This is the *fully turbulent* regime. This means that, in this range of $Re$, the friction factor $f$ does not depend on Re, which means that it does not depend on $V$ or $Q$. In this fully turbulent regime, the Haaland Equation simplifies to:
+
+$$ \frac{1}{\sqrt{f}} = -1.8 \log \biggl[\biggl(\frac{\epsilon/d}{3.7}\bigg)^{1.11}\biggr] $$
