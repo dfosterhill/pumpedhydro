@@ -46,8 +46,13 @@ $$ \frac{1}{\sqrt{f}} = -1.8 \log \biggl[\biggl(\frac{\epsilon/d}{3.7}\bigg)^{1.
 Great. This assumption is useful, but is it valid? For large scale pipe flow applications, it generally is. Fantastic. 
 
 ### Pump Performance Curve
+There is one final thing that we need. A given pump will have a head $h_{p}$ that varies with the flowrate going through it. As shown below, this *pump performance curve* is often similar to an upside-down quadratic shape. Some times, we are given tables of data about how $h_{p}$ and $Q$ vary with each other and we can use this information to develop an approach quadratic curve fit. In other words, we will generate an equation that looks like
 
+$$ h_{p} = A - BQ^{2} $$
 
+![pump performance curve](/figures/pump.png)
+
+### Summary
 In summary, therefore we have the following collection of equations that are to be solved:
 
 | Name | Formula|
