@@ -61,6 +61,8 @@ In summary, therefore we have the following collection of equations that are to 
 | Darcy-Weisbach | $h_{f} = f\frac{L}{d} \frac{V^{2}}{2g}$ |
 | Pump Power | $P=\gamma h_{p} Q = \gamma h_{p} V \frac{\pi}{4}d^{2}$ |
 | Friction Factor (Haaland) | $\frac{1}{\sqrt{f}} = -1.8 \log \biggl[\biggl(\frac{\epsilon/d}{3.7}\bigg)^{1.11}\biggr]$ |
+| Pump Performance | $h_{p} = A - BQ^{2}$ |
+| Flowrate / Velocity | $Q = VA$ |
 
 The following are typically known:
 1. Elevation difference $\Delta z$
@@ -70,11 +72,13 @@ The following are typically known:
 5. Pipe length $L$
 6. Fluid specific weight $\gamma$
 
-The four equations above are used to solve for the following:
+The six equations above are used to solve for the following:
 1. Pump head $h_{p}$
 2. Friction head loss $h_{f}$
 3. Friction factor $f$
 4. Fluid velocity $V$
+5. Volumetric flow rate $Q$
+6. Pump power $P$
 
 ## Downhill (turbine) Phase
 So, when the water flows back downhill, what changes? Astonishingly little. In this case, the energy equation becomes 
