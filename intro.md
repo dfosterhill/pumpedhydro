@@ -3,5 +3,5 @@ Production and consumption of energy are fairly straightforward concepts. We gen
 
 The bottom line is that there is significant need for the *storage* of energy. At to meet this need, which is increasing as renewables increase in scale and number, [battery storage](https://e360.yale.edu/features/in-boost-for-renewables-grid-scale-battery-storage-is-on-the-rise) facilities are being constructed. Many of these facilities use actual batteries, such as the image below from Pullman, Washington.
 
-[battery storage](/figures/battery.jpg)
+![battery storage](/figures/battery.jpg)
 
