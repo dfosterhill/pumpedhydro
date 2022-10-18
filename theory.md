@@ -46,6 +46,6 @@ In summary, therefore we have the following collection of equations that are to 
 | Name | Formula|
 | --- | --- |
 | Energy  | $h_{p}=\Delta z + f_{f}$ |
-| Darcy-Weisbach | h_{f} = f\frac{L}{d} \frac{V^{2}}{2g} |
+| Darcy-Weisbach | $h_{f} = f\frac{L}{d} \frac{V^{2}}{2g}$ |
 
 
