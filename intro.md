@@ -9,7 +9,7 @@ Another way of storing energy has to do with *potential energy*. Remember that $
 
 In principle any mass could be used in this storage concept. In practice, [water](https://www.npr.org/2022/10/14/1126523766/water-batteries-could-store-solar-and-wind-power-for-when-its-needed) is often used, and this is called *pumped storage* or *pumped hydro*. The essential idea is this. You have two bodies of water (reservoirs) at different elevations. When you have a suplus of energy, or when energy is cheap, you use a pump to move water from the lower reservoir to the upper reservoir. When you have a demand for energy, or when energy is more expensive, you allow the water to flow from the upper reservoir to the lower reservoir though an energy-generating turbine. The image below is a pumped storage system in South Africa, called the Steenbras Dams.
 
-![battery storage](/figures/steenbras.jpg)
+![steenbras](/figures/steenbras.jpg)
 
 Pumped storage can be used in one of two ways. It can be used solely for the purposes of smoothing out the imbalance between energy generation and energy demand. Or, it can be used to turn a profit. Some areas have *tiered* energy pricing, where energy may be very cheap in the middle of the night, for example, but much more costly during peak usage hours. In this case, cheap energy at night could be used to move water uphill, and the water could be released downhill during peak usage, when the electricity could be sold at a premium rate.
 
