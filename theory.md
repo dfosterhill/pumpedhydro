@@ -42,5 +42,7 @@ $$ h_{f}=f\frac{L}{d}\frac{V_{2}}{2g} $$
 Note that in this equation the $V$ is the velocity of the water in the pipe, which is different from the velocities of the reservoir free surfaces which we ignored in the work-energy equation above.
 
 In summary, therefore we have the following collection of equations that are to be solved:
+
 | Energy equation | $h_{p}=\Delta z + f_{f} |
+| --- | --- |
 
