@@ -66,7 +66,7 @@ In summary, therefore we have the following collection of equations that are to 
 
 The following are typically known:
 1. Elevation difference $\Delta z$
-2. Roughness height $\epsilon
+2. Roughness height $\epsilon$
 3. Pipe diameter $d$
 4. Pump power $P$
 5. Pipe length $L$
