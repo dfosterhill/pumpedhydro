@@ -34,3 +34,9 @@ In this equation, $p$ refers to pressure, $V$ is velocity, $h_{f}$ is the fricti
 Thus, our equation becomes:
 
 $$ h_{p}=\Delta z+h_{f} $$
+
+Ok. We are almost there. The last thing that we need is a model for friction losses, and we use the [Darcy Weisbach](https://en.wikipedia.org/wiki/Darcy%E2%80%93Weisbach_equation#Head-loss_form) equation which states that
+
+$$ h_{f}=f\frac{L}{d}\frac{V_{2}}{2g} $$
+
+Note that in this equation the $V$ is the velocity of the water in the pipe, which is different from the velocities of the reservoir free surfaces which we ignored in the work-energy equation above.
