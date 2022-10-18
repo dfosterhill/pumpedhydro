@@ -5,3 +5,12 @@ The bottom line is that there is significant need for the *storage* of energy. A
 
 ![battery storage](/figures/battery.jpg)
 
+Another way of storing energy has to do with *potential energy*. Remember that $PE = mgz$ where $m$ is mass, $g$ is gravity, and $z$ is elevation. So by raising a mass to a higher elevation we increase its potential energy, i.e. we store energy. When we want that energy back we simply allow that mass to move to a lower elevation and recover its potential energy. Now, one consideration here has to do with the *losses* (friction and other) associated with moving this mass up and then back down. If the losses are dramatic, then the storage scheme can quickly become undesirable.
+
+In principle any mass could be used in this storage concept. In practice, [water](https://www.npr.org/2022/10/14/1126523766/water-batteries-could-store-solar-and-wind-power-for-when-its-needed) is often used, and this is called *pumped storage* or *pumped hydro*. The essential idea is this. You have two bodies of water (reservoirs) at different elevations. When you have a suplus of energy, or when energy is cheap, you use a pump to move water from the lower reservoir to the upper reservoir. When you have a demand for energy, or when energy is more expensive, you allow the water to flow from the upper reservoir to the lower reservoir though an energy-generating turbine. The image below is a pumped storage system in South Africa, called the Steenbras Dams.
+
+![battery storage](/figures/steenbras.jpg)
+
+Pumped storage can be used in one of two ways. It can be used solely for the purposes of smoothing out the imbalance between energy generation and energy demand. Or, it can be used to turn a profit. Some areas have *tiered* energy pricing, where energy may be very cheap in the middle of the night, for example, but much more costly during peak usage hours. In this case, cheap energy at night could be used to move water uphill, and the water could be released downhill during peak usage, when the electricity could be sold at a premium rate.
+
+There are two other documents in this repository. One will walk through the fluid mechanics / hydraulics needed to analyze this problem. The other will set up and then solve a simple example problem.
