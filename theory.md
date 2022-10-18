@@ -64,3 +64,10 @@ The four equations above are used to solve for the following:
 2. Friction head loss $h_{f}$
 3. Friction factor $f$
 4. Fluid velocity $V$
+
+## Downhill (turbine) Phase
+So, when the water flows back downhill, what changes? Astonishingly little. In this case, the energy equation becomes 
+
+$$h_{t}=\Delta z - h_{f}$$
+
+where $h_{t}$ is the head extracted by the turbine. We have a similar turbomachine power equation, i.e. $P=\gamma h_{t}Q$. Everything else is pretty much the same!
