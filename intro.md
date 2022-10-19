@@ -13,4 +13,4 @@ In principle any mass could be used in this storage concept. In practice, [water
 
 Pumped storage can be used in one of two ways. It can be used solely for the purposes of smoothing out the imbalance between energy generation and energy demand. Or, it can be used to turn a profit. Some areas have *tiered* energy pricing, where energy may be very cheap in the middle of the night, for example, but much more costly during peak usage hours. In this case, cheap energy at night could be used to move water uphill, and the water could be released downhill during peak usage, when the electricity could be sold at a premium rate.
 
-There are two other documents in this repository. One will walk through the fluid mechanics / hydraulics needed to analyze this problem. The other will set up and then solve a simple example problem.
+There are a few other documents in this repository. [One](theory.md) will walk through the fluid mechanics / hydraulics needed to analyze this problem. The [other](example.md) will set up and then solve a simple example problem using a [piece](pumped_hydro.m) of matlab code.
